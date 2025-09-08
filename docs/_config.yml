@@ -28,6 +28,7 @@ url: "https://nweatherley.github.io" # the base hostname & protocol for your sit
 github_username:  nweatherley
 
 # Build settings
+
 theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
