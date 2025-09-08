@@ -12,3 +12,4 @@ Outside of work, I enjoy coffee roasting and exploring new technologies. I'm alw
 *   [LinkedIn](https://www.linkedin.com/in/nicholas-weatherley-508b73aa/)
 *   [GitHub](https://github.com/nweatherley)
 *   [Legacy GitHub](https://github.com/nicksweatherley)
+*   [Resume](nweatherley.pdf)
