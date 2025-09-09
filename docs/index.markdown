@@ -2,11 +2,17 @@
 layout: default
 ---
 
-# I'm Nick Weatherley
+Hi - I'm a Senior Software Engineer with a broad skill set across multiple languages. My main workhorse currently is in Python 3, with a focus on high-performance computing through multiprocessing and multithreading. I enjoy working on optimizations and vague problems the most.
 
-I'm systems engineer dedicated to solving complex technical challenges and building high-performance, reliable systems. I thrive on identifying bottlenecks, designing innovative solutions, and driving quantifiable improvements in efficiency, cost, and reliability – often leading projects from conception to deployment.  My expertise spans data engineering, cloud infrastructure, and performance optimization.  
+Outside of work, I enjoy coffee roasting and exploring new technologies. I'm always open to connecting!
 
 **[Download My Resume →](nweatherley.pdf)**
+
+## Links
+*   [LinkedIn](https://www.linkedin.com/in/nicholas-weatherley-508b73aa/)
+*   [GitHub](https://github.com/nweatherley)
+*   [Legacy GitHub](https://github.com/nicksweatherley)
+
 
 ## Featured Work
 
